@@ -1,5 +1,4 @@
 # projectfga-a11
-https://mddds08.github.io/projectfga-a11/
 
 - Header > navbar & home : Ahmad Raihanul Gibran
 - Main > tentang  : Adi Riyanto
